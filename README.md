@@ -21,7 +21,6 @@ Sistem otomasi cerdas berbasis **n8n** yang dirancang untuk memantau sentimen pa
 ## 📂 Struktur Repositori
 
 * `Asa_Crypto_Sentiment_Analyst.json`: File workflow n8n yang dapat di-import langsung.
-* `Dokumentasi_Tugas_8.pdf`: Laporan lengkap berisi screenshot konfigurasi dan hasil implementasi.
 * `crypto_rss_sentiment.ipynb`: Script Python (Google Colab) untuk penyedia data RSS awal.
 
 ## 🚀 Cara Instalasi
